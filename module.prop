@@ -4,3 +4,4 @@ version=0.0.1
 versionCode=1
 author=nonaybay
 description=Some useful by nonaybay
+updateJson=https://raw.github.com/nonaybay/magisk-mod/master/update.json
